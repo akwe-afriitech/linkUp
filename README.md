@@ -1,6 +1,9 @@
 <div align='center'>
-    
-    <h1><b></b> LinkUp</h1>
+    <h1>
+        <b>
+            LinkUp
+        </b>
+    </h1>
  
 <p> 
 A mobile and webapplication to link up hospitals globally by sharing data of the services, location and other facilities that each global hospital owns. In this way users can see exactly hospital and the services the offer
