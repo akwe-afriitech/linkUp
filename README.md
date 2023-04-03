@@ -1,12 +1,14 @@
 <div align='center'>
+    
     <h1><b></b> LinkUp</h1>
  
-    <p>A mobile and webapplication to link up hospitals globally by sharing data of the services, location and other facilities that each global hospital owns. In this way users can see exactly hospital and the services the offer
+<p> 
+A mobile and webapplication to link up hospitals globally by sharing data of the services, location and other facilities that each global hospital owns. In this way users can see exactly hospital and the services the offer
 </p>
 
 </div>
 
-* For Mobile:[https://github.com/akwe-afriitech/e-life-save/](https://github.com/akwe-afriitech/LinkUp) (stable channel)
+* For Mobile:[https://github.com/akwe-afriitech/linkUp/](https://github.com/akwe-afriitech/LinkUp) (stable channel)
 
 
 ## Getting Started /🗒️ **INSTALLATION**
