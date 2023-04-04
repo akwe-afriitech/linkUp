@@ -11,6 +11,9 @@ A mobile and webapplication to link up hospitals globally by sharing data of the
 
 </div>
 
+* For web: [the web app is deployed on the link: https://akwe-afriitech.github.io/linkUp-web/](https://akwe-afriitech.github.io/linkUp-web/)
+note: it may take a few seconds to load so please be patient for a split second
+
 * For Mobile:[https://github.com/akwe-afriitech/linkUp/](https://github.com/akwe-afriitech/LinkUp) (stable channel)
 
 
